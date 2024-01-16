@@ -1,5 +1,3 @@
-# CS 245 (Fall 2023) - Assignment 3 - IRoadTrip
+# International Rad Trip
 
-Can you plan the path for a road trip from one country to another?
-
-Change the java source code, but do not change the data files. See Canvas for assignment details.
+Going on a Road Trip? Use this tool to find the path from one country to another. Avoids water bodies!
